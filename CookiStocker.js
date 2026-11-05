@@ -48,7 +48,7 @@
 		var stockerLoopFrequency = 1000 * 2
 		
 		// The cheat itself. Rolls the cycle every time logic loop triggers
-		var stockerForceLoopUpdates = false
+		var stockerForceLoopUpdates = true
 
 		var stockerGreeting = 'click clack you will soon be in debt'
 
